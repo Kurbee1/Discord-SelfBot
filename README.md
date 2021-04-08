@@ -1,5 +1,5 @@
 # Discord-SelfBot
-Discord Self Bot for btran- uses python
+Discord Self Bot for- uses python
 install python
 run: pip install discord.py
 run: pip install pyfiglet
