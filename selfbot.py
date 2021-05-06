@@ -11,8 +11,8 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    if '!drop' in message.content.lower():
-        await message.channel.send('!pickup')
+    if 'RX' in message.content.lower():
+        await message.channel.send('Is gay ')
 
 
 
